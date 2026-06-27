@@ -2,22 +2,25 @@
 
 https://github.com/RaaHTecH-Org
 
-RaahTech Inc. builds practical technology systems for operations, automation, logistics, documentation, and portfolio-backed product development.
+RaAH is a technology collective building systems for logistics, civic infrastructure, automation, wellness, and scalable human impact.
+
+## Flagship product
+
+**LoadLink** - an intelligent freight matching platform that helps connect shippers and carriers with speed, security, and simplicity.
 
 ## Mission
 
-To build technology that empowers people, strengthens systems, and turns ideas into usable platforms.
+To build technology that empowers people, elevates systems, and aligns purpose with precision.
 
 ## Projects
 
-- LoadLink - freight matching and logistics automation
-- RaahTech Career Platform - professional portfolio and systems showcase
-- RaahTech Command Center - operations and infrastructure dashboard concepts
-- RahMind - guided reflection and digital wellness concept
+- **LoadLink** - AI freight matching engine
+- **VoteSphere** - Digital tools for civic power
+- **RahMind** - Guided AI wellness and inner work
 
 ## Founder
 
-Rechard Keith - creative technologist, systems thinker, and vision builder.
+**Rechard Keith** - creative technologist, systems thinker, and vision builder.
 
 ## Website
 
@@ -25,4 +28,4 @@ https://www.raahtech.org/
 
 ---
 
-RaahTech Inc. is where vision becomes systems.
+RaAH is a link between what is and what can be.
